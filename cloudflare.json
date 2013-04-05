@@ -190,5 +190,5 @@
   "scripts": {
     "piwik_js": "./public/javascripts/piwik.js"
   },
-  "version": "0.0.27b"
+  "version": "0.0.28b"
 }
